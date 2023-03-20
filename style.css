@@ -1,0 +1,8 @@
+body{
+    background-image: url(coffee.avif);
+    background-repeat: no-repeat;
+    background-size: cover;
+    min-height: 100vh;
+    background-position: center;
+    background-color: #3b8d99;
+}
