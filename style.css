@@ -57,3 +57,25 @@ h1{
         transition: all 1s ease;
     }
     
+
+    @media all and (max-width:820px){
+        h1{
+            font-size: 35px;
+        }
+    }
+    
+    
+    @media all and (max-width:500px){
+        h1{
+            font-size: 20px;
+        }
+        .inputField{
+            font-size: 20px;
+            width: 60%;
+        }
+        .toDoAdded{
+        width: 70%;
+        margin-right: 10%;
+        }
+    
+    }
